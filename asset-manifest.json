@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gpt3-ui/static/css/main.3f63169d.css",
+    "main.js": "/gpt3-ui/static/js/main.ef414e49.js",
+    "static/media/possibility.png": "/gpt3-ui/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/au-02.png": "/gpt3-ui/static/media/au-02.e821f2d2d389047966b6.png",
+    "static/media/blog03.png": "/gpt3-ui/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog05.png": "/gpt3-ui/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/gpt3-ui/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/gpt3-ui/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt3-ui/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gpt3-ui/index.html",
+    "main.3f63169d.css.map": "/gpt3-ui/static/css/main.3f63169d.css.map",
+    "main.ef414e49.js.map": "/gpt3-ui/static/js/main.ef414e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f63169d.css",
+    "static/js/main.ef414e49.js"
+  ]
+}
